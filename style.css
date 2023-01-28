@@ -2,6 +2,7 @@
 
 html {
     cursor: pointer;
+    user-select: none;
 }
 
 .content {
