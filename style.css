@@ -1,0 +1,12 @@
+/* Style */
+
+.content {
+    max-width: 960px;
+    margin: auto;
+}
+
+p {
+    font-size: 128pt;
+    justify-content: center;
+    text-align: center;
+}
